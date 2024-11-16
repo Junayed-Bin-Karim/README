@@ -80,6 +80,33 @@ A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **
 ![Visitor Count](https://komarev.com/ghpvc/?username=Junayed-Bin-Karim&style=flat-square&color=36bcf7)
 
 ---
+## 🏆 Achievements
+
+- **Completed a Bachelor's Degree in CSE** 🎓  
+  Currently pursuing **BSc in Computer Science and Engineering (CSE)** at [Daffodil International University](https://daffodilvarsity.edu.bd).
+
+- **Top Project in Green Computing** 🌱  
+  Working on my **Thesis** on **Green Computing**, focusing on **reducing CO2 emissions** and promoting **e-waste recycling**.
+
+- **Certified in Machine Learning** 🧠  
+  Completed various **Machine Learning** and **Deep Learning** courses from [Coursera](https://www.coursera.org/) and **Udemy**.
+
+- **GitHub Contributions** 📈  
+  Actively contributing to open-source projects, with over **50+ contributions** this year on [GitHub](https://github.com/Junayed-Bin-Karim).
+
+- **Successful Student Management System** 💻  
+  Built a **Student Management System** using **Java** and **MySQL**, deployed for internal use in the university.
+
+- **Publications** 📘  
+  Published a research paper on **Green Computing** in a **national conference** in 2024.
+
+- **Personal Growth** 🚀  
+  Improved English-speaking skills through daily practice and participation in various speaking clubs.
+
+
+---
+
+---
 
 ## 💡 Fun Fact
 ![Vanilla Lover Badge](https://img.shields.io/badge/Fun%20Fact-Vanilla%20Ice%20Cream-brightgreen)
