@@ -1,4 +1,4 @@
-# Hi, I'm Md. Junayed Bin Karim ✨
+# Hi, I'm Md. Junayed Bin Karim 
 
 ![Profile Banner](https://github.com/Junayed-Bin-Karim/Junayed-Bin-Karim/blob/main/me-banner.jpg)
 
