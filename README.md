@@ -55,6 +55,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Junayed-Bin-Karim&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junayed-Bin-Karim&theme=radical" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Junayed-Bin-Karim&show_icons=true&hide=prs&count_private=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junayed-Bin-Karim&theme=radical" width="48%" />
+</p>
 
 ---
 
