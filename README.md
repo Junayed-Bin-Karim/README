@@ -1,4 +1,4 @@
-# Hi, I'm Md. Junayed Bin Karim ✨
+# 👋 Hi, I'm Md. Junayed Bin Karim
 
 ![Profile Banner](https://github.com/Junayed-Bin-Karim/Junayed-Bin-Karim/blob/main/Banner.jpg)
 
@@ -47,6 +47,18 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Junayed-Bin-Karim&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junayed-Bin-Karim&theme=radical" width="48%" />
+</div>
+
+---
+
+## 🌍 Future Projects
+<div align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="8">
+    🚀 **AI-Powered Chatbot** - Developing a smart assistant using NLP |
+    📊 **Data Science Dashboard** - Visualizing data insights with Python |
+    🔍 **Cybersecurity Tool** - Building a system to detect vulnerabilities |
+    🌿 **Eco-Friendly IoT Solutions** - Innovating for a sustainable future
+  </marquee>
 </div>
 
 ---
