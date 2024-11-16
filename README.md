@@ -1,6 +1,5 @@
 # Hi, I'm Md. Junayed Bin Karim 
 
-![Profile Banner](https://github.com/Junayed-Bin-Karim/Junayed-Bin-Karim/blob/main/me-banner.jpg)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+CSE+Student+at+DIU;Passionate+about+ML%2C+DL%2C+%26+Green+Computing;Let's+Collaborate+and+Build+Something+Amazing!">
