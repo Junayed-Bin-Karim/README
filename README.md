@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Md. Junayed Bin Karim
 
-![Profile Banner](https://github.com/Junayed-Bin-Karim/Junayed-Bin-Karim/blob/main/banner.jpg)
+![Profile Banner](https://github.com/Junayed-Bin-Karim/Junayed-Bin-Karim/blob/main/Banner.jpg)
 
 ## 🚀 About Me
 - 🎓 **CSE Student** at [Daffodil International University](https://daffodilvarsity.edu.bd) | Currently in my 5th semester
