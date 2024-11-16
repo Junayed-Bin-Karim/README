@@ -82,21 +82,9 @@ A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **
 ---
 
 ## 💡 Fun Fact
-I absolutely love **vanilla** ice cream! 🍦 Always open to trying out new flavors.
-## 💡 Fun Fact
+![Vanilla Lover Badge](https://img.shields.io/badge/Fun%20Fact-Vanilla%20Ice%20Cream-brightgreen)
+I’m a **vanilla ice cream** fanatic 🍦! If you have any new flavors, I’d love to try them! 😄
 
-<div style="overflow: hidden; width: 100%; white-space: nowrap;">
-  <p style="display: inline-block; padding-left: 100%; animation: scroll 10s linear infinite;">
-    I am a huge fan of vanilla ice cream and always eager to explore new flavors 🍦.
-  </p>
-</div>
-
-<style>
-  @keyframes scroll {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
 ---
 
 ⭐️ *Feel free to explore my repositories, star ⭐ them, and contribute!*
