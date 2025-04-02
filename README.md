@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Science & Engineering** student at [Daffodil International University](https://daffodilvarsity.edu.bd) (5th Semester)
+- 🎓 **Computer Science & Engineering** student at [Daffodil International University](https://daffodilvarsity.edu.bd)
 - 🌱 Exploring **Machine Learning**, **Deep Learning**, and **Green Computing**
 - 💻 Skilled in **Python**, **C**, **Java**, **HTML/CSS**, **DBMS**, **OOP**
 - 🖥️ Researching **Green Computing** to reduce e-waste and promote sustainability
