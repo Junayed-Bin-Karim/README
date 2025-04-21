@@ -16,9 +16,6 @@
 -  Researching **Green Computing** to reduce e-waste and promote sustainability
 -  Learning to play the **guitar** & 🏋️‍♂️ on a fitness journey
 -  Future goals: **Higher Education** (Master's/PhD) & Professional Certifications
-
----
-
 ---
 
 ##  GitHub Stats & Activity
@@ -37,15 +34,6 @@ A research project focusing on reducing e-waste by identifying reusable computer
 ###  [Machine Learning Models](https://github.com/Junayed-Bin-Karim/machine-learning)
 A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **Scikit-Learn**.
 
-
-
-## Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/junayed-bin-karim-47b755270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Junayed-Bin-Karim"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:karim22205101667@diu.edu.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
 ---
 
 ##  Future Aspirations
@@ -53,10 +41,6 @@ A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **
 -  Deep dive into **AI** and **Sustainable Technology**
 -  Pursue higher education (Master's or PhD) and obtain certifications
 
----
-
-##  Visitor Counter
-![Visitor Count](https://komarev.com/ghpvc/?username=Junayed-Bin-Karim&style=flat-square&color=36bcf7)
 
 ---
 ##  Achievements
@@ -73,4 +57,3 @@ A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **
 - **Publications**  
   Published a research paper on **Green Computing** in a **national conference** in 2024.
 
----
