@@ -35,9 +35,6 @@
 ### [Green Computing Initiative](https://github.com/Junayed-Bin-Karim/green-computing)
 A research project focusing on reducing e-waste by identifying reusable computer components.
 
-###  [Student Management System](https://github.com/Junayed-Bin-Karim/student-management-system)
-A full-stack application using **Java** and **MySQL** to streamline student record management.
-
 ###  [Machine Learning Models](https://github.com/Junayed-Bin-Karim/machine-learning)
 A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **Scikit-Learn**.
 
@@ -74,17 +71,7 @@ A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **
 - **Certified in Machine Learning**  
   Completed various **Machine Learning** and **Deep Learning** courses from [Coursera](https://www.coursera.org/) and **Udemy**.
 
-- **GitHub Contributions**   
-  Actively contributing to open-source projects, with over **50+ contributions** this year on [GitHub](https://github.com/Junayed-Bin-Karim).
-
-- **Successful Student Management System**   
-  Built a **Student Management System** using **Java** and **MySQL**, deployed for internal use in the university.
-
 - **Publications**  
   Published a research paper on **Green Computing** in a **national conference** in 2024.
-
-- **Personal Growth** 
-  Improved English-speaking skills through daily practice and participation in various speaking clubs.
-
 
 ---
