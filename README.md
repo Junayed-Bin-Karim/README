@@ -25,7 +25,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Junayed-Bin-Karim&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junayed-Bin-Karim&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Junayed-Bin-Karim&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 ---
