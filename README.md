@@ -14,7 +14,6 @@
 -  Exploring **Machine Learning**, **Deep Learning**, and **Green Computing**
 -  Skilled in **Python**, **C**, **Java**, **HTML/CSS**, **DBMS**, **OOP**
 -  Researching **Green Computing** to reduce e-waste and promote sustainability
--  Learning to play the **guitar** & 🏋️‍♂️ on a fitness journey
 -  Future goals: **Higher Education** (Master's/PhD) & Professional Certifications
 ---
 
