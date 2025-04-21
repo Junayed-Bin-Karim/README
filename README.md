@@ -29,11 +29,6 @@
 </div>
 
 ---
----
-
-
-
----
 
 
 ##  Featured Projects
@@ -46,14 +41,7 @@ A full-stack application using **Java** and **MySQL** to streamline student reco
 ###  [Machine Learning Models](https://github.com/Junayed-Bin-Karim/machine-learning)
 A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **Scikit-Learn**.
 
----
 
-##  Creative Streak: GitHub Trophy Showcase
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Junayed-Bin-Karim&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" />
-</div>
-
----
 
 ## Connect with Me
 <div align="center">
@@ -100,8 +88,3 @@ A comprehensive collection of ML algorithms using **Python**, **Pandas**, and **
 
 
 ---
-
-
----
-
- *Feel free to explore my repositories, star them, and contribute!*
