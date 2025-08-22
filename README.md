@@ -8,4 +8,4 @@
 
 ## 👨‍💼 About Me
 - 🎓 **Computer Science & Engineering** student at [Daffodil International University](https://daffodilvarsity.edu.bd)  
-- 👨‍💼 **Founder & Owner** at **Junayed Academy – Educational Platform**  
+- 👨‍💼 **Founder & Owner** of **Junayed Academy – Educational Platform**
