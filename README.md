@@ -6,6 +6,6 @@
 
 ## 👨‍💼 About Me
 - 🎓 **Computer Science & Engineering** student at [Daffodil International University](https://daffodilvarsity.edu.bd)  
-- 👨‍💼 **Founder & Owner** of [**Junayed Academy**](https://junayed-academy.vercel.app/) – an educational platform offering practical courses in AI, Machine Learning, and Web Development.
+- 👨‍💼 **Founder & Owner** of [**Junayed Academy**](https://junayedacademy.netlify.app/) – an educational platform offering practical courses in AI, Machine Learning, and Web Development.
 
 Feel free to explore the courses and resources available at Junayed Academy to enhance your skills and knowledge.
